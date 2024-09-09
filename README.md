@@ -1,2 +1,3 @@
-npm install
-npm start
+1. npm install
+<br>
+2. npm start
